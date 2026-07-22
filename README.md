@@ -1,4 +1,4 @@
-# Credit Application Analysis 🏦
+# Credit Application Analysis 
 
 > A systems- and business-analysis case study of a **credit-application
 > process**: from a BPMN model of the workflow to functional requirements, a
